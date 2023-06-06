@@ -1,0 +1,17 @@
+.classpath
+.project
+/bin
+/.settings
+
+
+/shelf/
+/workspace.xml
+
+/httpRequests/
+
+/dataSources/
+/dataSources.local.xml
+
+.name
+misc.xml
+vcs.xml
