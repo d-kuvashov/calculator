@@ -1,6 +1,8 @@
 package program;
 import java.util.Scanner;
 
+// SergeyD write it
+
 public class program {
 	 public static void main(String[] args) {
 		 char operator;
@@ -26,6 +28,12 @@ public class program {
 		      case '+':
 		        result = number1 + number2;
 		        System.out.println(number1 + " + " + number2 + " = " + result);
+		        break;
+                      
+                      // performs subtraction between numbers
+		      case '-':
+		        result = number1 - number2;
+		        System.out.println(number1 + " - " + number2 + " = " + result);
 		        break;
 
 				case '*':
